@@ -3,7 +3,7 @@
 <h3 align="left">:books: Studying Programming :books:</h3>
 <ul>
     <li>Discord store owner. 🛒</li>
-    <li>17 Anos. :date:</li>
+    <li>17 Years. :date:</li>
     <li>I develop discord bot / telegram bot/ wbpages / system / programs /... :robot:</li>
 </ul>
 <a href="https://discord.com/users/295689199879716885"><img src="https://img.shields.io/badge/-@yfxzown_-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
