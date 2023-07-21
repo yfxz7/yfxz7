@@ -11,3 +11,4 @@
 
 ![](https://discord.c99.nl/widget/theme-3/295689199879716885.png)
 
+![](https://media.tenor.com/Y0D4Zb_hED0AAAAC/hello-kitty-dancing.gif)
