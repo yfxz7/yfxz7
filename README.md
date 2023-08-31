@@ -1,3 +1,4 @@
+<center>
 # yFxZ Coder 🚀
 
 <div align="center">
@@ -26,3 +27,4 @@
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 
 ## É isso rpz, agora pegue seu cookie 🍪
+</center>
