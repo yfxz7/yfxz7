@@ -1,6 +1,6 @@
-<p align="center">
 # yFxZ Coder 🚀
-
+<p align="center">
+  
 <div align="center">
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
 </div>
