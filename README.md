@@ -13,6 +13,13 @@
 - PHP 🕸️
 - HTML/CSS 🎨
 
+### Developing.. 💻
+
+- Discord Bots 🤖
+- Telegram Bots 📱
+- Back End & Front End Development 🌐
+- Websites 🌍
+
 ### Contact! 🌐
 
 - Discord: [yFxZ Coder](https://discord.com/users/1134936275980386364)
