@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 # yFxZ Coder 🚀
 
 <div align="center">
