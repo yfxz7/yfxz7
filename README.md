@@ -1,13 +1,22 @@
-<p align="center">
-<br><h1 align="left">🥊 <b>|</b> yFxZ</h1>
-<h3 align="left">:books: Studying Programming :books:</h3>
-<ul>
-    <li>Discord store owner. 🛒</li>
-    <li>17 Years. :date:</li>
-    <li>I develop discord bot / telegram bot/ webpages / system / programs /... :robot:</li>
-</ul>
-<a href="https://discord.com/users/295689199879716885"><img src="https://img.shields.io/badge/-@yfxzown_-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
-<a href="https://discord.gg/k5c2yKeJRA"><img src="https://img.shields.io/badge/-🎈 yFxZ Store 🎈_-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<div align="center">
+  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
+</div>
+Hey there, fellow code voyager! 👋 Welcome to my GitHub universe, where lines of code come to life and pixels dance in symphony. I'm yFxZ Coder, a multidimensional developer and a passionate creator of digital dreams.
 
-![](https://discord.c99.nl/widget/theme-3/295689199879716885.png) ![](https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif)
+About Me 🤖
+In my digital realm, I speak the languages of the cyber world fluently:
 
+Python 🐍
+JavaScript/TypeScript 🌐
+PHP 🕸️
+HTML/CSS 🎨
+I'm not just a coder; I'm a Toolsmith crafting magic with lines of code. Whether it's turning mundane tasks into automated wonders or conjuring utilities that make your digital life easier, I've got the tools to make your tech-life shine.
+
+Join My Creative Crusade! 🎥
+Ever wondered how these magical creations come to life? Dive into the arcane arts of coding and creativity by joining me on my YouTube channel: yFxZ Tools Maker. Uncover secrets, learn tips, and witness the spells of code weaving their wonders.
+
+Let's Connect! 🌐
+Catch up with me across the digital realms. Let's chat, share ideas, and build castles in the air together:
+
+Discord: yFxZ Coder
+Instagram: yFxZ Coder
