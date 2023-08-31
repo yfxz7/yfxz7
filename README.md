@@ -1,8 +1,10 @@
-# yFxZ Coder 🚀
-  
 <div align="center">
   <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
 </div>
+
+# yFxZ Coder 🚀
+  
+<div align="center">
 
 ## About Me 🤖
 
@@ -25,5 +27,5 @@
 - Discord: [yFxZ Coder](https://discord.com/users/1134936275980386364)
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 
-## É isso rpz, agora pegue seu cookie 🍪
-</center>
+## That's it, folks! Now grab your cookie 🍪
+</div>
