@@ -1,30 +1,30 @@
-# yFxZ Coder 🚀
+<p align="center">
+    <img src="https://i.imgur.com/lLrHdV0.png" style="width:150px;height:150px;" />
+</p>
 
-<div align="center">
-  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
-</div>
-
-## About Me 🤖
-
-### Langs! 🗽
-
-- Python 🐍
-- JavaScript/TypeScript 🌐
-- PHP 🕸️
-- HTML/CSS 🎨
-
-### Developing.. 💻
-
-- Discord Bots 🤖
-- Telegram Bots 📱
-- Back End & Front End 🌐
-- Websites 🌍
-
-### Contact! 🌐
-
-- Discord: [yfxzofc](https://discord.com/users/1134936275980386364)
-- Instagram: [yfxzofc](https://www.instagram.com/yfxzofc)
-
-## É isso rpz, agora pegue seu cookie 🍪
+<p align="center">
+    <img src="https://img.shields.io/github/followers/whoisdon?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=whoisdon&show_icons=true&theme=dark" alt="whoisdon" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdon&theme=dark" alt="whoisdon" />
+    
+</p>
 
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCoDFu9OogVkX0_CrDkh9NLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/ikxrmht" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/CbGzcr6EpE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</p>
+<hr>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/828677274659586068" width="450px">
+</p>
+
+<hr>
+<p align="center">
+Discord: Who Am I#0001<img align="center" alt="whoisdon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"> <img align="center" alt="whoisdon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+</p>
+
+![Snake animation](https://github.com/whoisdon/whoisdon/blob/output/github-contribution-grid-snake.svg)
