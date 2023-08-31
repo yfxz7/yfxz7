@@ -18,6 +18,6 @@
 - Discord: [yFxZ Coder](https://discord.com/users/1134936275980386364)
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 
-## Embrace the Pixel Symphony! 🎉
+## É isso rpz, agora pegue seu cookie 🍪
 
-É isso rpz, agora pegue seu cookie 🍪
+
