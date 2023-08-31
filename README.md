@@ -17,7 +17,7 @@
 
 - Discord Bots 🤖
 - Telegram Bots 📱
-- Back End & Front End Development 🌐
+- Back End & Front End 🌐
 - Websites 🌍
 
 ### Contact! 🌐
