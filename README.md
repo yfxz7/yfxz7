@@ -15,10 +15,11 @@
 
 ### Developing... 💻
 
+- Api's 🧊
 - Discord Bots 🤖
 - Telegram Bots 📱
 - Back End & Front End Development 🌐
-- Amazing Websites 🌍
+- Websites 🌍
 
 ### Contact! 🌐
 
