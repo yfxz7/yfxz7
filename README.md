@@ -23,8 +23,8 @@
 
 ### Contact! 🌐
 
-- Discord: [yFxZ Coder](https://discord.com/users/1134936275980386364)
+- Discord: [yFxZ Coder](https://discord.com/users/331956452044570635)
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 
-## É isso rpz, agora pegue seu cookie 🍪
-- https://yfxz.xyz
+## 
+- É isso rpz, agora pegue o seus cookies 🍪🍪[🍪](https://yfxz.xyz) https://yfxz.xyz
