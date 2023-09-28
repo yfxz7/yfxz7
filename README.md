@@ -27,4 +27,4 @@
 - Instagram: [yFxZ Coder](https://www.instagram.com/yfxzofc)
 
 ## 
-- É isso rpz, agora pegue o seus cookies 🍪🍪[🍪](https://yfxz.xyz) https://yfxz.xyz
+- É isso rpz, agora pegue o seus cookies [🍪🍪🍪](https://yfxz.xyz) https://yfxz.xyz
